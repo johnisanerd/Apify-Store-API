@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# uv / virtualenv
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo

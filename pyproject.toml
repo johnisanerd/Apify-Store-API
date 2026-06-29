@@ -1,0 +1,9 @@
+[project]
+name = "apify-store-api-example"
+version = "1.0.0"
+description = "Python quick-start for the Apify Store API: pricing, usage, and reliability data for every public Apify Store Actor."
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=3.0.0",
+    "python-dotenv>=1.0,<2",
+]
