@@ -91,7 +91,7 @@ Each dataset item is one Store Actor. Representative row:
   "name": "website-content-crawler",
   "username": "apify",
   "title": "Website Content Crawler",
-  "url": "https://apify.com/apify/website-content-crawler",
+  "url": "https://apify.com/apify/website-content-crawler?fpr=9n7kx3",
   "categories": ["AI", "DEVELOPER_TOOLS", "BUSINESS"],
   "totalUsers": 21786,
   "monthlyUsers": 3355,
@@ -180,7 +180,7 @@ On claude.ai you add Apify as a connector, then enable just this Actor's tool.
 4. Alternatively, choose **Add custom connector** and paste the full MCP URL `https://mcp.apify.com/?tools=actors,docs,johnvc/store-actor-intelligence-api`, using OAuth when prompted.
 5. Ask Claude to run the Apify Store API.
 
-Open Claude on the web: https://claude.ai
+Open Claude on the web: https://claude.ai/referral/uIlpa7nPLg
 
 ## Install in Cursor
 
